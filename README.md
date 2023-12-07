@@ -4,11 +4,8 @@
 * 'git init' - initialize local git repo
 * 'git add . ' - adds files to be committed 
 * 'git commit -m' - adds message about changes
-- git status
-show modified files in working directory, staged for your next commit
-
-- git add [file]
-add a file as it looks now to your next commit (stage)
+* 'git log --oneline' - list of commit history, compact foramt 
+* 'git status ' - show state of local working repo
 
 - git reset [file]
 unstage a file while retaining the changes in working directory

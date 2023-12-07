@@ -1,7 +1,12 @@
 # Git Branching Cheat Sheet
 
  ## Overview 
+ Summart of common git commands
 
+ stuff added to newBranch 
+ this will conflict 
+ serp serp 
+ serp derp
 
  
 
@@ -32,3 +37,8 @@ diff of what is staged but not yet commited
 ## Remote Commands
 
 * 'git remote add origin URL ' - set 'origin ' as alias for remote
+
+
+
+
+dlsdfasdfasdfasdfas

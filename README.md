@@ -1,7 +1,12 @@
 # Git Branching Cheat Sheet
 
  ## Overview 
+ Summary if common git commands
 
+
+ stuff added by me 
+ more main stuff
+ blah 
 
  
 

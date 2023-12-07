@@ -1,5 +1,10 @@
 # Git Branching Cheat Sheet
 
+ ## Overview 
+
+
+ 
+
 ## Basic Commands 
 * 'git init' - initialize local git repo
 * 'git add . ' - adds files to be committed 

@@ -7,8 +7,35 @@
  stuff added by me 
  more main stuff
  blah 
+1. checkout and pull main 
+```bash
 
- 
+git checkout main
+git pull origin main 
+```
+ 1. checkout new branch from up-to-date main
+```
+
+git checkout -b someFeature
+
+```
+
+1. work committing each complete task, until feature is complete
+
+1. ```
+git add 
+git commit -,"complete feature"
+git pull origin main 
+
+
+```
+* if auto merge merge succeeds, save and quit from 'vi' editor:
+* if 'CONFLICT', fix conflicts in all files removing merge markers and commit 
+``` bash
+
+git add 
+git commit -m "fixed merge conflict"
+```
 
 ## Basic Commands 
 * 'git init' - initialize local git repo
@@ -33,6 +60,7 @@ diff of what is changed but not staged
 diff of what is staged but not yet commited
 
 * 'git branch' - list local branches
+* 'git help' - show synopsis of git commands
 
 ## Remote Commands
 

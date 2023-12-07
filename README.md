@@ -23,3 +23,7 @@ diff of what is changed but not staged
 diff of what is staged but not yet commited
 
 * 'git branch' - list local branches
+
+## Remote Commands
+
+* 'git remote add origin URL ' - set 'origin ' as alias for remote

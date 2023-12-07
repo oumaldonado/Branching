@@ -22,3 +22,4 @@ diff of what is changed but not staged
 * 'git diff --staged'
 diff of what is staged but not yet commited
 
+* 'git branch' - list local branches

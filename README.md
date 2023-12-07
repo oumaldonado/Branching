@@ -2,8 +2,8 @@
 
 ## Basic Commands 
 * 'git init' - initialize local git repo
-* ''
-
+* 'git add . ' - adds files to be committed 
+* 'git commit -m' - adds message about changes
 - git status
 show modified files in working directory, staged for your next commit
 

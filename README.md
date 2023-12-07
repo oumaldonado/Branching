@@ -1,12 +1,12 @@
 # Git Branching Cheat Sheet
 
  ## Overview 
+
  Summart of common git commands
 
- stuff added to newBranch 
- this will conflict 
- serp serp 
- serp derp
+ stuff added by me 
+ more main stuff
+ blah 
 
  
 

@@ -1,8 +1,8 @@
 # Git Branching Cheat Sheet
 
  ## Overview 
- Summary if common git commands
 
+ Summart of common git commands
 
  stuff added by me 
  more main stuff
@@ -37,3 +37,8 @@ diff of what is staged but not yet commited
 ## Remote Commands
 
 * 'git remote add origin URL ' - set 'origin ' as alias for remote
+
+
+
+
+dlsdfasdfasdfasdfas
